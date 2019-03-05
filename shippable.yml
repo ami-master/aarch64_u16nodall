@@ -21,7 +21,7 @@ build:
     - npm version #6.5.0
     - docker ps
     - docker images
-    - docker pull shippabledocker/sample_node_pvt:ecr
+    #- docker pull shippabledocker/sample_node_pvt:ecr
     
 integrations:
     
